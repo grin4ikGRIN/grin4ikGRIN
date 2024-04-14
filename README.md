@@ -33,5 +33,4 @@
  * - Problemlösung durch Programmierung: geistige Herausforderung, Programmierfreude, Lösungsspaß.
  * - Leidenschaftliches Lesen: Entspannung, Wissen, Fantasie, Inspiration, neue Perspektiven.
  * - Aktiver Sport: Gesundheit, Fitness, Energie, Spaß.
- *
  */
